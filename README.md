@@ -1,7 +1,7 @@
 <h2>letschat</h2>
 
 
-<h3>Loggging Method(info being exchanged)</h3>
+<h3>For login</h3>
 <p>proceed to the app by logging into this..certainly i am using the Google Api for the user info.... And i have only access to the info being send by the google upon successful login.</p>
 
 <h3>Further steps..</h3>
@@ -18,15 +18,3 @@
 3.Express js(Node js web framework for the backend building)<br>
 4.MongoDb(for storing the user list and messages and conversations)<br>
 5.Socket.io(js library for the real time chatting )<br>
-
-<h2>Login Prompt</h2>
-
-<img src="https://github.com/Daksh-raj/letschat/blob/main/images/Screenshot%20(30).png?raw=true">
-<img src="https://github.com/Daksh-raj/letschat/blob/main/images/Screenshot%20(31).png?raw=true">
-
-<h2> User List,start conversation with any user</h2>
-<img src="https://github.com/Daksh-raj/letschat/blob/main/images/Screenshot%20(32).png?raw=true">
-
-<h2>User Profile view</h2>
-<img src="https://github.com/Daksh-raj/letschat/blob/main/images/Screenshot%20(33).png?raw=true">
-
