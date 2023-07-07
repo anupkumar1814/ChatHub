@@ -1,7 +1,7 @@
 <h2>letschat</h2>
 
 
-<h3>For login</h3>
+<h3>For login use your Email Id</h3>
 <p>proceed to the app by logging into this..certainly i am using the Google Api for the user info.... And i have only access to the info being send by the google upon successful login.</p>
 
 <h3>Further steps..</h3>
