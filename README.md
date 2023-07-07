@@ -1,4 +1,4 @@
-<h2>letschat</h2>
+<h2>ChatHub</h2>
 
 
 <h3>For login use your Email Id</h3>
